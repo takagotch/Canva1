@@ -1,4 +1,4 @@
-### canva1
+### Canva1
 ---
 https://github.com/takagotch/canva
 
